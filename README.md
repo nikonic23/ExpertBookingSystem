@@ -21,9 +21,9 @@ A full-stack booking platform that enables users to discover experts, browse ava
 
 ### Expert Details
 
-![Expert Details 1](assets/details/Expert1.png)
-![Expert Details 2](assets/details/Expert2.png)
-![Expert Details 3](assets/details/Expert3.png)
+![Expert Details 1](assets/Details/Expert1.png)
+![Expert Details 2](assets/Details/Expert2.png)
+![Expert Details 3](assets/Details/Expert3.png)
 
 ### Booking Flow
 
