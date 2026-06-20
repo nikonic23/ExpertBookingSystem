@@ -1,7 +1,7 @@
 import { io } from "../server.js";
 
-import Booking from "../models/Booking.js";
-import Expert from "../models/Expert.js";
+import Booking from "../models/booking.js";
+import Expert from "../models/expert.js";
 
 export const createBooking =
   async (req, res) => {
