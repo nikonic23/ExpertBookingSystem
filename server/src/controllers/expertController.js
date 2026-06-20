@@ -1,4 +1,4 @@
-import Expert from "../models/Expert.js";
+import Expert from "../models/expert.js";
 
 export const getExperts = async (req, res) => {
   try {
