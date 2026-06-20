@@ -12,6 +12,14 @@ A full-stack booking platform that enables users to discover experts, browse ava
 
 ---
 
+## Live Demo
+
+Frontend: https://expert-booking-system-eight.vercel.app/
+
+Backend: https://expertbookingsystem-f9rh.onrender.com
+
+---
+
 ## Screenshots
 
 ### Expert Listings
